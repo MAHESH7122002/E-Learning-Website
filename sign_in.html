@@ -1,0 +1,114 @@
+<!DOCTYPE-html>
+<html>
+<head>
+<title> SIGN IN </TITLE>
+    <link rel="icon" href="com_logo.jpg">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+    body{
+        background-image:url("signin.jpg");
+        background-repeat:no-repeat;
+        background-size: 100%;
+    }
+    div{
+                margin:0;
+                height: 500px;
+                width: 320px;
+                padding:10px;
+                margin-left:100px;
+    }
+    a {
+	text-decoration: none;
+	font-weight: 2em;
+	font-family: 'roboto';
+	margin-right: 20px;
+    color:white;
+}
+    .button
+    {
+        background-color: salmon;
+        padding:5px 10px;
+        color:white;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .x{
+        border-radius: 3cm;
+        text-align: center;
+    }
+    
+</style>
+
+</head>
+<body>
+    <div>
+<img class="x" src="log.jpg" width="100px" height="100px" style="margin-left: 80px;">
+        <pre style="font-family: serif; font-size: medium;">
+Build skills for today, tomorrow, and beyond.
+    Education to future-proof your career.
+        </pre>
+<p style="margin-left:70px;">Sign in with</p>
+<table >
+    <tr>
+<td><button class="button"><a href="">Google</a></button></td>
+<td align="LEFT"><button class="button"><a href="">Facebook</a></button></td>
+    </tr>
+<tr>
+    <td></td>
+    <td style="text-align:inherit; font-size: larger; ">OR</td>
+</tr>
+</table>
+<!--form validation-->
+<form  onclick="return validate3()">
+
+    <label><b>E-MAIL:  </b></label>
+    <input id="email" placeholder="email" type="text"/>
+    <label id="emvis" style="color:orangered;visibility:hidden">Invalid </label><br><br>
+
+    <label><b>PASSWORD:</b></label>
+    <input type="Password" id="pwd" placeholder="Enter Your Password"><i style="margin-left:20px;" class="fa fa-eye-slash"></i>
+    <label id="lpwd" style="color:orangered;visibility:hidden">wrong password</label>
+
+
+<p align="right"><button class="button" style="background-color: royalblue;"><a href="forgot_password.html" target="middle">Forgot password?</a></button></p>
+
+<pre style="font-family: serif; font-size: medium;">By clicking Sign In, you agree to our Terms of Use
+                 and our Privacy Policy.<input type="checkbox"></pre>
+
+<button class="button" type="submit" style="margin-top: 5px; padding:5px 10px; background-color: turquoise;">LOG IN</button>
+</form>
+</div>
+</body>
+
+<script>
+            function validate3()
+        {
+            var pw=document.getElementById("pwd").value;
+      
+            var em=document.getElementById("email");
+            var regx=/^([a-z A-Z 0-9.-]+)@([\w\.-]+).([a-z]{2,8})(.[a-z]{2,8})?$/
+       
+                if(regx.test(em.value))
+                {
+
+                }
+            
+            else
+            {
+                document.getElementById("emvis").style.visibility="visible";
+                x.style.border="solid 4px red";
+                alert("invalid mail");
+
+                document.getElementById("lpwd").innerHTML='Password cant be empty';
+                document.getElementById("lpwd").style.visibility='visible';
+            }
+        }
+
+
+</script>
+
+</html>
+
+
+

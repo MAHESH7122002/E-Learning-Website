@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<head>
+    <title>Payment</title>
+    <style>
+        body{
+            background-image: url("payment_bg.jpg");
+            background-size: 100%;
+            background-repeat: no-repeat;
+            color:white;
+        }
+        * {
+  box-sizing: border-box;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul li {
+  border: 1px solid grey;
+  margin-top: -1px; /* Prevent double borders */
+  background-color:initial;
+  padding: 15px;
+  font-size: 25px;
+}
+        .p1{
+            margin-left:50px;
+            margin-top:50px;
+            width:700px;
+        }
+    .in{
+        padding:2px 2px;
+        height: 40px;
+        width:200px;
+      
+        margin-left:20px;
+    }
+    .but{
+        width:700px;
+        margin-left:50px;
+        padding:12px;
+        background-color: olivedrab;
+        margin-top: 50px;
+        font-size: 20px;
+    }
+    img{
+        width: 50px;
+        height: 30px;
+        margin-left: 50px;
+        background-image: inherit;
+    }
+    .but:hover{
+        color:white;
+        background-color: orange;
+        font-size: 24px;
+        box-shadow: 2px 4px 5px 8px grey;
+    }
+    </style>
+</head>
+<body>
+<div class="p1">
+    <ul>
+    <li><p style="text-align: center;">Great! Thats ₹23,552</p></li>
+
+    <li><input type="radio" name="pay" >Pay Pal <img src="pay_pal_logo.jpg"><br></li>
+    <li><input type="radio" name="pay" checked>Debit / Credit Card <img src="pay_credit_logo.png"> <img src="pay_visa_logo.png"> <img src="pay_dis_logo.png"> </li>
+    <li>Card Number: <input type="text" placeholder="xxxx xxxx xxxx xxxx" style="background-color: inherit;" class="in"></li>
+    <li>Expiry <input type="text" placeholder="MM/YY" style="background-color: inherit; width:60px; margin-right: 200px;" class="in"> CVC <input type="text" placeholder="123" style="background-color: inherit; width:50px;" class="in"></li>
+
+    </ul>
+</div>
+    
+<button class="but">Proceed</button>
+</body>
+
+</html>
