@@ -1,0 +1,106 @@
+
+
+<html>
+<head>
+<title>BIO DATA</title>
+</head>
+<body bgcolor="MintCream">
+<marquee direction="right" width="100%" height="2%" scrollamount="20" behavior="alternate">
+RESUME
+</marquee>
+<h1 align="center">NALLADA UMA MAHESWARA RAO</H1>
+<h2 ><p align="left"> <b>Email:</b>maheshnallada@gmail.com </p>align="right"><b>Ph.No:</b>9391866799</p></h2>
+<dl>
+<dt><h2 id="Career_Objectives">Career Objectives:</h2><dt>
+<dd> A resourceful individual with a proven track record in implementing successful marketing strategies, boosting organic traffic, and improving search rankings seeks a position of Marketing Associate at ABC company to maximize brand awareness and revenue through integrated marketing communications.</dd>
+</dl>
+<hr>
+ <table border="1" bgcolor="coral" align="center" bordercolor="black" cellspacing="10" cellpadding="12">
+ <caption>EDUCATIONAL DETAILS</caption>
+ <tr bgcolor="Teal">
+ <th>S.NO</th>
+ <th>COURSE</th>
+ <th>COLLEGE/UNIVERSITY</th>
+ <th>ADDRESS</th>
+ <th>YEAR</th>
+ <th>WEBSITE</th>
+ </tr>
+ <TR bgcolor="AquaMarine">
+ <td>1</td>
+ <td>SSC</td>
+ <td>ADITYA PUBLIC SCHOOL</td>
+ <TD>PITHAPURAM</td>
+ <td>2018</td>
+ <td><a href="https://www.facebook.com/AdityaSchoolPithapuram/" target="_self">SCHOOL</a></td> 
+ </tr>
+ <tr bgcolor="MistyRose">
+ <td>2</td>
+ <td>BIEAP</td>
+ <td>ADITYA JUNIOR COLLEGE</td>
+ <td>KAKINADA</td>
+ <td>2018-2020</td>
+ <td><a href="http://www.inkakinada.com/list/aditya-junior-college" target="_blank">INTER</a></td>
+ </tr>
+<tr bgcolor="SeaShell">
+<td>3</td>
+<td>CSE</td>
+<td>SRKR ENGINEERING COLLEGE</td>
+<td>BHIMAVARAM</td>
+<td>2020-2024</td>
+<td><a href="http://srkrec.edu.in/" target="_parent">SRKREC</a></td>
+</tr>
+ </TABLE>
+ <hr>
+<ins><h2>Hobbies</h2></ins>
+<ol type="1">
+<li>Playing cricket</li>
+<li>Web surfing</li>
+<li>Reading Books</li>
+</ol>
+<hr>
+<h2 id="Achievements">Achievements</h2>
+<ul>
+<li>1st prize in smart india hackathon 2021</li>
+<li>Best student award in 2022</li>
+<li>Re-organized something to make it work better.</li>
+<li>Identified a problem and solved it.</li>
+<li>Come up with a new idea that improved things.</li>
+<li>Developed or implemented new procedures or systems.</li>
+<li>Worked on special projects.</li>
+</ul>
+<hr>
+<h2>Extra circular Activites</h2>
+<ol type="i">
+<li>Best Dancer in 2022</li>
+<li>All india best singer in 2018</li>
+<li>Won ranji trophy as a captain</li>
+</ol>
+<hr>
+<h2>Strengths</h2>
+<ol type="A">
+<li>Adaptability</li>
+<li>Multi tasking</li>
+<li>Leadership skills.</li>
+<li>Good Comunication skills</li>
+</ol>
+<hr>
+<h2>Weakness</h2>
+<pre>
+->Inexperience with specific software or a non-essential skill.
+->Tendency to take on too much responsibility.
+->Nervousness about public speaking.
+->Hesitancy about delegating tasks.
+->Discomfort taking big risks.
+</pre>
+<hr>
+<dl>
+<dt><h2>Declaration</h2><dt>
+<dd><p>-I hereby declare that the contents of my resume are accurate to the best of my knowledge and verify their authenticity. </p></dd>
+</dl>
+<h4 align="right">
+<font face="Blackadder ITC">N.uma Mahesh</font><br>08-09-2021
+</h4>
+<a href="#Career_Objectives" >career objectives</a>
+<a href="#Achievements">Achievements</a>
+</body>
+</html>
