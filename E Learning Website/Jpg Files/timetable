@@ -1,0 +1,170 @@
+<html>
+<head>
+<title> Student Details</title>
+ </head>
+ <body bgcolor="Aquamarine">
+ <h1 align="center">N.UMA MAHESWARA RAO</h1>
+ <h4 align="right"><b>DATE:</B><em>02-11-2021</em></h4>
+ <h4 align="right"><strong>STATION:</STRONG> <i>BHIMAVARAM</I><H4>
+ <hr>
+ <h3><ins>PERSONAL DETAILS</ins></h3>
+ <img src="fdf.jpg" alt="Mahesh">
+ <img src="C:\Users\user\AppData\Roaming\Microsoft\Windows\Network Shortcuts\pb2.png" style="width:100px;height:100px;" align="right">
+ <h2 align="left">
+ <pre>
+ <b>NAME    :</b><q>N.UMA MAHESWARA RAO</q>
+ <b>REGD.NO :</b><mark>20B91A05K3</mark>
+ <b>BRANCH  :</b><tt>CSE</tt>
+ <b>SECTION :</b><del>C</del>
+ <b>ADMIN.NO:</b><em>1091</em>
+ </pre>
+ </h2>
+ <hr>
+ <h2>HOBBIES:</h2><br>
+ <p>Web surfing</p>
+ <p>playing cricket</p>
+ <p>Reading books</p>
+ <hr>
+ 
+ <h2>Self introduction</h2>
+ <h4><p><font face="Times New Roman" color="orange" >"Hi, I am Uma maheswara rao. I am from Pithapuram. I completed my B.Tech at Srkr engineering college in 2024.
+
+My father is a Business man, and my mother is a House wife. I have a younger brother who is pursuing his B.Tech.
+
+I love playing basketball and have represented my school in many competitions. My active participation in sports has taught me many skills. I am also an active member of my school alumni club and take initiative in organizing alumni meets.
+
+I have a fascination for languages, so I am learning the Japanese language."</font></p></h4>
+ 
+ <hr>
+ <table border="1" bgcolor="coral" align="center" border-color="red">
+ <caption>EDUCATIONAL DETAILS</caption>
+ <tr bgcolor="Teal">
+ <th>S.NO</th>
+ <th>COURSE</th>
+ <th>COLLEGE/UNIVERSITY</th>
+ <th>ADDRESS</th>
+ <th>YEAR</th>
+ <th>WEBSITE</th>
+ </tr>
+ 
+ <TR>
+ <td>1</td>
+ <td>SSC</td>
+ <td>ADITYA PUBLIC SCHOOL</td>
+ <TD>PITHAPURAM</td>
+ <td>2018</td>
+ <td><a href="https://www.facebook.com/AdityaSchoolPithapuram/" target="_self">SCHOOL</a></td> 
+ </tr>
+ 
+ <tr>
+ <td>2</td>
+ <td>BIEAP</td>
+ <td>ADITYA JUNIOR COLLEGE</td>
+ <td>KAKINADA</td>
+ <td>2018-2020</td>
+ <td><a href="http://www.inkakinada.com/list/aditya-junior-college" target="_blank">INTER</a></td>
+ </tr>
+
+<tr>
+<td>3</td>
+<td>CSE</td>
+<td>SRKR ENGINEERING COLLEGE</td>
+<td>BHIMAVARAM</td>
+<td>2020-2024</td>
+<td><a href="http://srkrec.edu.in/" target="_parent">SRKREC</a></td>
+</tr>
+ </TABLE>
+ <hr>
+ <br>
+ 
+ <table bgcolor="Aqua" BORDER="2" align="center">
+ <CAPTION>TIME TABLE</caption>
+ <tr bgcolor="PeachPuff">
+ <th>Day</th>
+ <th>1</th>
+ <th>2</th>
+ <th>3</th>
+ <th>4</th>
+ <TH>lunch break</th>
+ <th>5</th>
+ <th>6</th>
+ <th>7</th>
+ <TH>8</TH>
+ </tr>
+ 
+ <tr>
+ <th>MONDAY</th>
+ <td>M3</td>
+ <td>M3</td>
+ <td>SE</td> 
+ <td>SE</td>
+ <td>........</td>
+ <td>PP LAB</td>
+ <td>PP LAB</td>
+ <td>PP LAB</td>
+ <td>---</td>
+ </TR>
+ 
+ <tr>
+ <th>TUESDAY</th>
+ <td>OOP</td>
+ <td>OOP</td>
+ <td>OS</td>
+ <td>OS</td>
+ <td>........</td>
+ <td>C1 AND C2-WAD LAB</td>
+ <td>C1 AND C2-WAD LAB</td>
+ <td>C1 AND C2-WAD LAB</td>
+ <td>---</td>
+ </tr>
+ 
+ <TR>
+ <th>WEDNESDAY</th>
+ <td>OOP LAB</td>
+ <td>OOP LAB</td>
+ <td>OOP LAB</td>
+ <TD>---</TD>
+ <td>........</td>
+ <td>M3</td>
+ <td>M3</td>
+ <td>---</td>
+ <td>---</td>
+ </tr>
+
+ <TR>
+ <th>THURSDAY</th>
+ <td>OS LAB</td>
+ <td>OS LAB</td>
+ <td>OS LAB</td>
+ <td>---</td>
+ <td>........</td>
+ <td>PP</td>
+ <td>PP</td>
+ <td>EP</td>
+ <td>EP</td>
+ </tr>
+
+ <TR>
+ <th>FRIDAY</th>
+ <td>SE</td>
+ <td>SE</td>
+ <td>OS</td>
+ <td>OS</td>
+ <td>........</td>
+ <td>OOP</td>
+ <td>OOP</td>
+ <TD>ES</td>
+ <td>ES</td>
+ </tr>
+
+ <TR>
+ <th>SATURDAY</th>
+ <td>PP</td>
+ <td>PP</td>
+ <td>---</td>
+ <td>---</td>
+ <td>........</td>
+ </tr> 
+ </table>
+ </body>
+</html>
