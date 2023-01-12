@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-color: floralwhite;
+}
+
+p.x{
+    font-size: 30px;
+    color:deeppink
+}
+
+p.y{
+    font-size: larger;
+    color:orange;
+}
+div{
+    height: 180px;
+    width: 180px;
+    background-color: azure;
+    box-shadow: 8px 8px 5px rgb(36, 31, 31);
+}
+img{
+    border-radius: 2cm;
+    height: 100px;
+    width:100px;
+    text-align: center;
+}
+i{
+    font-size:25px;
+    color:darkblue;
+}
